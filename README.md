@@ -153,34 +153,21 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
 Libraries of controls with a strong identity and look-and-feel.
 Controls are often not intended to be used alone.
 
-* **[modernui](https://github.com/peters/winforms-modernui)**
-  Brings the new Modern UI alias Metro UI of Windows 8 to .NET Windows Forms applications.  
-  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/peters/winforms-modernui)
-  [![NuGet - modernui](https://img.shields.io/badge/NuGet-modernui-blue?logo=nuget)](https://www.nuget.org/packages/modernui/)
-  ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
+* **[AcrylicUI](https://github.com/colhountech/AcrylicUI)**
+  AcrylicUI is a Free Control and Docking Framework for .NET5+ WinForms.
+  This framework was inspired by [DarkUI](https://github.com/RobinPerris/DarkUI) by Robin Perris. However DarkUI does not support High Resolution Monitors, .NET 5+ and does not seem to be active.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/colhountech/AcrylicUI)
+  ![activity - fresh](https://img.shields.io/badge/activity-fresh-00ACC1)
 
-* **[MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin)**
-  Theming .NET WinForms, C# or VB.Net, to Google's Material Design Principles.  
-  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/IgnaceMaes/MaterialSkin)
-  [![NuGet - MaterialSkin](https://img.shields.io/badge/NuGet-MaterialSkin-blue?logo=nuget)](https://www.nuget.org/packages/MaterialSkin/)
+* **[AeroSuite](https://github.com/stefan-baumann/AeroSuite)**
+  AeroSuite is a WinForms Control Library that provides extended functionality for pre-existing controls and also new controls. Unlike most (if not all) similar libraries, this library is aimed at supporting every platform: Windows XP to 10 and Linux with Mono are supported.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/stefan-baumann/AeroSuite)
   ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
 
 * **[DarkUI](https://github.com/RobinPerris/DarkUI)**
   Dark themed control and docking library for .NET WinForms.  
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/RobinPerris/DarkUI)
   ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
-
-* **[AcrylicUI](https://github.com/colhountech/AcrylicUI)**
-  AcrylicUI is a Free Control and Docking Framework for .NET5+ WinForms.
-  This framework was inspired by [DarkUI](https://github.com/RobinPerris/DarkUI) by Robin Perris. However DarkUI does not support High Resolution Monitors, .NET 5+ and does not seem to be active.  
-  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/colhountech/AcrylicUI)
-  ![activity - fresh](https://img.shields.io/badge/activity-fresh-00ACC1)
-  
-* **[ReaLTaiizor](https://github.com/Taiizor/ReaLTaiizor)**
-  ReaLTaiizor is a UI/UX component library. It allows you to make modern designs using the various components it offers.  
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub)](https://github.com/Taiizor/ReaLTaiizor)
-  [![NuGet - ReaLTaiizor](https://img.shields.io/badge/NuGet-ReaLTaiizor-blue?logo=nuget)](https://www.nuget.org/packages/ReaLTaiizor/)
-  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
   
 * **[Krypton Standard Tookit](https://github.com/Krypton-Suite/Standard-Toolkit)**
   The Krypton Toolkit provides a set of basic user interface components for free. You can distribute the signed Krypton Toolkit assembly without charge or royalty with your own products. The Krypton Toolkit is great resource for speeding up development of professional looking applications. It works in tandem with the MenuStrip, StatusStrip and ToolStrip controls that come with .NET Framework controls. Using the Krypton Toolkit you can create a great looking application in just minutes.  
@@ -188,9 +175,27 @@ Controls are often not intended to be used alone.
   [![NuGet - Krypton.Toolkit](https://img.shields.io/badge/NuGet-Krypton.Toolkit-blue?logo=nuget)](https://www.nuget.org/packages/Krypton.Toolkit/)
   ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
 
+* **[MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin)**
+  Theming .NET WinForms, C# or VB.Net, to Google's Material Design Principles.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/IgnaceMaes/MaterialSkin)
+  [![NuGet - MaterialSkin](https://img.shields.io/badge/NuGet-MaterialSkin-blue?logo=nuget)](https://www.nuget.org/packages/MaterialSkin/)
+  ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
+
 * **[MaterialWinforms](https://github.com/glm9637/MaterialWinforms)**
   Windows Forms Controls with Material Design. I created this library out of two existing ones: https://github.com/IgnaceMaes/MaterialSkin https://sinister.ly/Thread-Tutorial-C-Material-Design-Lollipop-WinForms-UI Because i really liked them, but felt like some controls were Missing, so i added a few Custom ones and will add other ones as soon as i need them.  
   [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub)](https://github.com/glm9637/MaterialWinforms)
+
+* **[modernui](https://github.com/peters/winforms-modernui)**
+  Brings the new Modern UI alias Metro UI of Windows 8 to .NET Windows Forms applications.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/peters/winforms-modernui)
+  [![NuGet - modernui](https://img.shields.io/badge/NuGet-modernui-blue?logo=nuget)](https://www.nuget.org/packages/modernui/)
+  ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
+  
+* **[ReaLTaiizor](https://github.com/Taiizor/ReaLTaiizor)**
+  ReaLTaiizor is a UI/UX component library. It allows you to make modern designs using the various components it offers.  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub)](https://github.com/Taiizor/ReaLTaiizor)
+  [![NuGet - ReaLTaiizor](https://img.shields.io/badge/NuGet-ReaLTaiizor-blue?logo=nuget)](https://www.nuget.org/packages/ReaLTaiizor/)
+  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
 
 <!--
 
