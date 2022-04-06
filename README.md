@@ -183,7 +183,7 @@ Controls are often not intended to be used alone.
   ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
   
 * **[Krypton Standard Tookit](https://github.com/Krypton-Suite/Standard-Toolkit)**
-  An update to Component factory's krypton toolkit to support .NET Framework 4.6.2 - 4.8 to .NET Core/.NET  
+  The Krypton Toolkit provides a set of basic user interface components for free. You can distribute the signed Krypton Toolkit assembly without charge or royalty with your own products. The Krypton Toolkit is great resource for speeding up development of professional looking applications. It works in tandem with the MenuStrip, StatusStrip and ToolStrip controls that come with .NET Framework controls. Using the Krypton Toolkit you can create a great looking application in just minutes.  
   [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub)](https://github.com/Krypton-Suite/Standard-Toolkit)
   [![NuGet - Krypton.Toolkit](https://img.shields.io/badge/NuGet-Krypton.Toolkit-blue?logo=nuget)](https://www.nuget.org/packages/Krypton.Toolkit/)
   ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
