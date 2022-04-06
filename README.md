@@ -23,9 +23,20 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
 
 * **[Advanced DataGridView](https://github.com/davidegironi/advanceddatagridview)**
   Advanced DataGridView is a .NET WinForms DataGridView with advanced Filtering and Sorting capabilities.  
-  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](davidegironi/advanceddatagridview)
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/davidegironi/advanceddatagridview)
   [![NuGet - DG.AdvancedDataGridView](https://img.shields.io/badge/NuGet-DG.AdvancedDataGridView-blue?logo=nuget)](https://www.nuget.org/packages/DG.AdvancedDataGridView/)
   ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
+
+* **[ImageListView](http://oozcitak.github.io/imagelistview/)**
+  A .NET listview control for image files with asynchronously loaded thumbnails.
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/oozcitak/imagelistview)
+  [![NuGet - ImageListView](https://img.shields.io/badge/NuGet-ImageListView-blue?logo=nuget)](https://www.nuget.org/packages/ImageListView/)
+  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
+
+* **[Krypton OutlookGrid](https://www.jdhsoftware.com/products/krypton-outlookgrid/)**
+  Krypton customized version of the .NET Winforms DataGridView (C#) that allows multi-grouping and multi-sorting. Featuring a TreeGrid mode, conditional formatting and additional custom columns.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/Cocotteseb/Krypton-OutlookGrid)
+  ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
 
 ## Containers / Layout / Docking
 
@@ -130,7 +141,7 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
   [![NuGet - NodeEditor](https://img.shields.io/badge/NuGet-NodeEditor-blue?logo=nuget)](https://www.nuget.org/packages/NodeEditor/)
   ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
 
-## Validation / DataBinding / MVx
+## Validation / DataBinding / MVx / Interactions
 
 * **[Bindery](https://github.com/Parametric/Bindery)**
   Bindery aims to support fluent MVVM binding definition for WinForms applications.  
@@ -141,6 +152,12 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
   .NET Data Binding we deserve: concise, fast, feature-rich.  
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/SIDOVSKY/EBind)
   [![NuGet - EBind.NET](https://img.shields.io/badge/NuGet-EBind.NET-blue?logo=nuget)](https://www.nuget.org/packages/EBind.NET/)
+  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
+
+* **[FluentDragDrop](https://github.com/awaescher/FluentDragDrop)
+  The sexiest Drag&Drop for WinForms on this planet.
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/awaescher/FluentDragDrop)
+  [![NuGet - FluentDragDrop](https://img.shields.io/badge/NuGet-FluentDragDrop-blue?logo=nuget)](https://www.nuget.org/packages/FluentDragDrop/)
   ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
   
 * **[MatthewJesse](https://github.com/Richardmjxhx/MatthewJesse)**
