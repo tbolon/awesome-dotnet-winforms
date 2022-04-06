@@ -2,14 +2,7 @@
 
 A curated list of free and open-source .NET libraries for Windows Forms (winforms).
 
-## Labels, Text ##
-
-* **[more.LabelEx](https://github.com/tstih/more#labelex)**
-  Label that can rotate and supports transparency.  
-  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/tstih/more#labelex)
-  ![activity - fresh](https://img.shields.io/badge/activity-fresh-00ACC1)
-
-## Input
+## Input Controls / Forms
 
 * **[more.SecurityMatrix](https://github.com/tstih/more#securitymatrix)**
   A highly configurable classic permissions and roles grid editor. It accepts a feed interface which must provide a list of roles, permission categories, and permissions. A demo feed implementation is part of the control.  
@@ -92,7 +85,12 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/tstih/more#spritegrid)
   ![activity - fresh](https://img.shields.io/badge/activity-fresh-00ACC1)
 
-## Custom drawing / Diagrams
+## Text rendering / Custom drawing / Diagrams
+
+* **[more.LabelEx](https://github.com/tstih/more#labelex)**
+  Label that can rotate and supports transparency.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/tstih/more#labelex)
+  ![activity - fresh](https://img.shields.io/badge/activity-fresh-00ACC1)
 
 * **[more.DocumentPreview](https://github.com/tstih/more#documentpreview)**
   The DocumentPreview control paints the document background (the ornaments) and allows painting inside it, using native units. When the document needs to be painted, it triggers the paint event and your job is to paint into provided graphics context using native units.  
