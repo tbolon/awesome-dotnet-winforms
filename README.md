@@ -30,6 +30,14 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
 * **[more.Prompt](https://github.com/tstih/more#prompt)**
   The Prompt control helps you consistently align your controls on the form. It adds a prompt and a glyph in front of them in a consistent way.
 
+## Menu / Navigation
+
+* **[RibbonWinForms](https://github.com/RibbonWinForms/RibbonWinForms)**
+  An Office Ribbon Control for .NET WinForms.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/RibbonWinForms/RibbonWinForms)
+  [![NuGet - RibbonWinForms](https://img.shields.io/badge/NuGet-RibbonWinForms-blue?logo=nuget)](https://www.nuget.org/packages/RibbonWinForms/)
+  ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
+
 ## Custom drawing / Diagrams
 
 * **[more.DocumentPreview](https://github.com/tstih/more#documentpreview)**
@@ -67,6 +75,12 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
 
 Libraries of controls with a strong identity and look-and-feel.
 Controls are often not intended to be used alone.
+
+* **[modernui](https://github.com/peters/winforms-modernui)**
+  Brings the new Modern UI alias Metro UI of Windows 8 to .NET Windows Forms applications.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/peters/winforms-modernui)
+  [![NuGet - modernui](https://img.shields.io/badge/NuGet-modernui-blue?logo=nuget)](https://www.nuget.org/packages/modernui/)
+  ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
 
 * **[AcrylicUI](https://github.com/colhountech/AcrylicUI)**
   AcrylicUI is a Free Control and Docking Framework for .NET5+ WinForms.
