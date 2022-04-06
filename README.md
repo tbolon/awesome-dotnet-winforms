@@ -4,20 +4,20 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
 
 ## Input Controls / Forms
 
-* **[more.SecurityMatrix](https://github.com/tstih/more#securitymatrix)**
-  A highly configurable classic permissions and roles grid editor. It accepts a feed interface which must provide a list of roles, permission categories, and permissions. A demo feed implementation is part of the control.  
-  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/tstih/more#securitymatrix)
-  ![activity - fresh](https://img.shields.io/badge/activity-fresh-00ACC1)
-
-* **[Customizable ComboBox Drop-Down](https://www.codeproject.com/Articles/25471/Customizable-ComboBox-Drop-Down)**
-  A combobox control with a customizable drop-down.  
-  [![CodeProject](https://img.shields.io/badge/CodeProject-333?logo=codeproject&logoColor=FF9900)](https://www.codeproject.com/Articles/25471/Customizable-ComboBox-Drop-Down)
-
 * **[AdamsLair.ColorPicker](https://github.com/AdamsLair/winforms)**
   A custom ColorPicker Dialog, similar to the one known from software like Photoshop, but also supporting alpha values.  
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/AdamsLair/winforms)
   [![NuGet - AdamsLair.WinForms](https://img.shields.io/badge/NuGet-AdamsLair.WinForms-blue?logo=nuget)](https://www.nuget.org/packages/AdamsLair.WinForms/)
   ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
+
+* **[Customizable ComboBox Drop-Down](https://www.codeproject.com/Articles/25471/Customizable-ComboBox-Drop-Down)**
+  A combobox control with a customizable drop-down.  
+  [![CodeProject](https://img.shields.io/badge/CodeProject-333?logo=codeproject&logoColor=FF9900)](https://www.codeproject.com/Articles/25471/Customizable-ComboBox-Drop-Down)
+
+* **[more.SecurityMatrix](https://github.com/tstih/more#securitymatrix)**
+  A highly configurable classic permissions and roles grid editor. It accepts a feed interface which must provide a list of roles, permission categories, and permissions. A demo feed implementation is part of the control.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/tstih/more#securitymatrix)
+  ![activity - fresh](https://img.shields.io/badge/activity-fresh-00ACC1)
 
 ## Grid View / Lists
 
@@ -35,6 +35,17 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
   [![NuGet - DockPanelSuite](https://img.shields.io/badge/NuGet-DockPanelSuite-blue?logo=nuget)](https://www.nuget.org/packages/DockPanelSuite/)
   ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
 
+* **[ExpandCollapsePanel](https://github.com/alexander-makarov/ExpandCollapsePane)**
+  ExpandCollapsePanel is WinForms control has similar to WPF Expander control. Control displays a header that has a collapsible window that displays content.  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub)](https://github.com/alexander-makarov/ExpandCollapsePanel)
+  ![activity - rough](https://img.shields.io/badge/activity-rough-981E32)
+  
+* **[Krypton.Docking](https://github.com/Krypton-Suite/Standard-Toolkit)**
+  The Krypton Docking set of components allow the user to drag and drop docking pages into new locations in order to customise the organisation of the application content. It allows this in a way similar to that of Visual Studio 2008/2010. Each docking area uses an instance of the Krypton Workspace allowing a wide range of options for organising and displaying pages. It integrates with the Krypton Toolkit architecture to ensure a consistent look and feel.  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub)](https://github.com/Krypton-Suite/Standard-Toolkit)
+  [![NuGet - Krypton.Docking](https://img.shields.io/badge/NuGet-Krypton.Docking-blue?logo=nuget)](https://www.nuget.org/packages/Krypton.Docking/)
+  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
+
 * **[more.Frame & PanelEx](https://github.com/tstih/more#frame)**
   To understand the Frame control, you first need to understand its base control - the PanelEx.
   This control enables you to create non-client border around the PanelEx, and have WinForms respect it, for example, when docking children inside the PanelEx.  
@@ -45,31 +56,8 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
   The Prompt control helps you consistently align your controls on the form. It adds a prompt and a glyph in front of them in a consistent way.  
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/tstih/more)
   ![activity - fresh](https://img.shields.io/badge/activity-fresh-00ACC1)
-  
-* **[Krypton.Docking](https://github.com/Krypton-Suite/Standard-Toolkit)**
-  The Krypton Docking set of components allow the user to drag and drop docking pages into new locations in order to customise the organisation of the application content. It allows this in a way similar to that of Visual Studio 2008/2010. Each docking area uses an instance of the Krypton Workspace allowing a wide range of options for organising and displaying pages. It integrates with the Krypton Toolkit architecture to ensure a consistent look and feel.  
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub)](https://github.com/Krypton-Suite/Standard-Toolkit)
-  [![NuGet - Krypton.Docking](https://img.shields.io/badge/NuGet-Krypton.Docking-blue?logo=nuget)](https://www.nuget.org/packages/Krypton.Docking/)
-  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
-
-* **[ExpandCollapsePanel](https://github.com/alexander-makarov/ExpandCollapsePane)**
-  ExpandCollapsePanel is WinForms control has similar to WPF Expander control. Control displays a header that has a collapsible window that displays content.  
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub)](https://github.com/alexander-makarov/ExpandCollapsePanel)
-  ![activity - rough](https://img.shields.io/badge/activity-rough-981E32)
 
 ## Menu / Navigation / Dialogs / Tabs
-
-* **[RibbonWinForms](https://github.com/RibbonWinForms/RibbonWinForms)**
-  An Office Ribbon Control for .NET WinForms.  
-  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/RibbonWinForms/RibbonWinForms)
-  [![NuGet - RibbonWinForms](https://img.shields.io/badge/NuGet-RibbonWinForms-blue?logo=nuget)](https://www.nuget.org/packages/RibbonWinForms/)
-  ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
-
-* **[Ookii.Dialogs.WinForms](https://github.com/ookii-dialogs/ookii-dialogs-winforms)**
-  Awesome dialogs for Windows Desktop applications built with Microsoft .NET (WinForms).  
-  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/ookii-dialogs/ookii-dialogs-winforms)
-  [![NuGet - Ookii.Dialogs.WinForms](https://img.shields.io/badge/NuGet-Ookii.Dialogs.WinForms-blue?logo=nuget)](https://www.nuget.org/packages/Ookii.Dialogs.WinForms/)
-  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
   
 * **[Krypton.Navigator](https://github.com/Krypton-Suite/Standard-Toolkit)**
   The Krypton Navigator is a user interface control that provides the user with a variety of ways to navigate around a set of pages. Think of it as a traditional TabControl on steroids. It has many different modes of operation allowing you to achieve exactly the right operation for your application. It integrates with the Krypton Toolkit architecture to ensure a consistent look and feel.  
@@ -82,6 +70,18 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
   [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub)](https://github.com/Krypton-Suite/Standard-Toolkit)
   [![NuGet - Krypton.Ribbon](https://img.shields.io/badge/NuGet-Krypton.Ribbon-blue?logo=nuget)](https://www.nuget.org/packages/Krypton.Ribbon/)
   ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
+
+* **[Ookii.Dialogs.WinForms](https://github.com/ookii-dialogs/ookii-dialogs-winforms)**
+  Awesome dialogs for Windows Desktop applications built with Microsoft .NET (WinForms).  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/ookii-dialogs/ookii-dialogs-winforms)
+  [![NuGet - Ookii.Dialogs.WinForms](https://img.shields.io/badge/NuGet-Ookii.Dialogs.WinForms-blue?logo=nuget)](https://www.nuget.org/packages/Ookii.Dialogs.WinForms/)
+  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
+
+* **[RibbonWinForms](https://github.com/RibbonWinForms/RibbonWinForms)**
+  An Office Ribbon Control for .NET WinForms.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/RibbonWinForms/RibbonWinForms)
+  [![NuGet - RibbonWinForms](https://img.shields.io/badge/NuGet-RibbonWinForms-blue?logo=nuget)](https://www.nuget.org/packages/RibbonWinForms/)
+  ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
   
 ## Images
 
@@ -92,11 +92,6 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
 
 ## Text rendering / Custom drawing / Diagrams
 
-* **[more.LabelEx](https://github.com/tstih/more#labelex)**
-  Label that can rotate and supports transparency.  
-  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/tstih/more#labelex)
-  ![activity - fresh](https://img.shields.io/badge/activity-fresh-00ACC1)
-
 * **[more.DocumentPreview](https://github.com/tstih/more#documentpreview)**
   The DocumentPreview control paints the document background (the ornaments) and allows painting inside it, using native units. When the document needs to be painted, it triggers the paint event and your job is to paint into provided graphics context using native units.  
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/tstih/more#documentpreview)
@@ -105,6 +100,11 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
 * **[more.Hierarchy](https://github.com/tstih/more#hierarchy)**
   You can use the Hierarchy control to visualise trees. The control only does the layouting; it expects your code to draw content inside events.  
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/tstih/more#hierarchy)
+  ![activity - fresh](https://img.shields.io/badge/activity-fresh-00ACC1)
+
+* **[more.LabelEx](https://github.com/tstih/more#labelex)**
+  Label that can rotate and supports transparency.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/tstih/more#labelex)
   ![activity - fresh](https://img.shields.io/badge/activity-fresh-00ACC1)
 
 * **[more.Monitors](https://github.com/tstih/more#monitors)**
