@@ -39,7 +39,7 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
   ExpandCollapsePanel is WinForms control has similar to WPF Expander control. Control displays a header that has a collapsible window that displays content.  
   [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub)](https://github.com/alexander-makarov/ExpandCollapsePanel)
   ![activity - rough](https://img.shields.io/badge/activity-rough-981E32)
-  
+
 * **[Krypton.Docking](https://github.com/Krypton-Suite/Standard-Toolkit)**
   The Krypton Docking set of components allow the user to drag and drop docking pages into new locations in order to customise the organisation of the application content. It allows this in a way similar to that of Visual Studio 2008/2010. Each docking area uses an instance of the Krypton Workspace allowing a wide range of options for organising and displaying pages. It integrates with the Krypton Toolkit architecture to ensure a consistent look and feel.  
   [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub)](https://github.com/Krypton-Suite/Standard-Toolkit)
@@ -57,14 +57,20 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/tstih/more)
   ![activity - fresh](https://img.shields.io/badge/activity-fresh-00ACC1)
 
-## Menu / Navigation / Dialogs / Tabs
-  
+## Menu / Navigation / Dialogs / Tabs / Windows
+
+* **[EasyTabs](https://lstratman.github.io/EasyTabs/)**
+  Library to enable .NET WinForms apps to easily render a set of tabs in their titlebar space, similar to Chrome, Firefox, Edge, etc.  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub)](https://github.com/lstratman/EasyTabs)
+  [![NuGet - EasyTabs](https://img.shields.io/badge/NuGet-EasyTabs-blue?logo=nuget)](https://www.nuget.org/packages/EasyTabs/)
+  ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
+
 * **[Krypton.Navigator](https://github.com/Krypton-Suite/Standard-Toolkit)**
   The Krypton Navigator is a user interface control that provides the user with a variety of ways to navigate around a set of pages. Think of it as a traditional TabControl on steroids. It has many different modes of operation allowing you to achieve exactly the right operation for your application. It integrates with the Krypton Toolkit architecture to ensure a consistent look and feel.  
   [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub)](https://github.com/Krypton-Suite/Standard-Toolkit)
   [![NuGet - Krypton.Navigator](https://img.shields.io/badge/NuGet-Krypton.Navigator-blue?logo=nuget)](https://www.nuget.org/packages/Krypton.Navigator/)
   ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
-  
+
 * **[Krypton.Ribbon](https://github.com/Krypton-Suite/Standard-Toolkit)**
   The Krypton Ribbon is designed to mimic the look, feel and operation of the ribbon control seen in the Microsoft Office 2007/2010/2013/365 applications such as Word and Excel. It provides advanced capabilities including the quick access toolbar, contextual tabs and auto shrinking groups. With rich design time support and sample code you can be up and running with the ribbon in no time at all. It integrates with the Krypton Toolkit architecture to ensure a consistent look and feel.  
   [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub)](https://github.com/Krypton-Suite/Standard-Toolkit)
@@ -90,7 +96,13 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/tstih/more#spritegrid)
   ![activity - fresh](https://img.shields.io/badge/activity-fresh-00ACC1)
 
-## Text rendering / Custom drawing / Diagrams
+## Text rendering / Custom drawing / Diagrams / Charts
+
+* **[LiveCharts.WinForms](https://github.com/beto-rodriguez/LiveCharts2)**
+  Simple, flexible, interactive & powerful charts, maps and gauges for .Net, LiveCharts2 can now practically run everywhere WPF, WinForms, Xamarin, Avalonia, WinUI, UWP, Blazor-wasm, MAUI.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/beto-rodriguez/LiveCharts2)
+  [![NuGet - LiveChartsCore.SkiaSharpView.WinForms](https://img.shields.io/badge/NuGet-LiveChartsCore.SkiaSharpView.WinForms-blue?logo=nuget)](https://www.nuget.org/packages/LiveChartsCore.SkiaSharpView.WinForms)
+  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
 
 * **[more.DocumentPreview](https://github.com/tstih/more#documentpreview)**
   The DocumentPreview control paints the document background (the ornaments) and allows painting inside it, using native units. When the document needs to be painted, it triggers the paint event and your job is to paint into provided graphics context using native units.  
