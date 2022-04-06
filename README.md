@@ -14,13 +14,13 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
   A highly configurable classic permissions and roles grid editor. It accepts a feed interface which must provide a list of roles, permission categories, and permissions. A demo feed implementation is part of the control.  
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/tstih/more#securitymatrix)
 
-## Images
+## Containers / Layout / Docking
 
-* **[more.SpriteGrid](https://github.com/tstih/more#spritegrid)**
-  Raster image viewer (with mouse events and zoom), a basis for a sprite editor.
-  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/tstih/more#spritegrid)
-
-## Containers
+* **[DockPanelSuite](https://github.com/dockpanelsuite/dockpanelsuite)**
+  DockPanel Suite - The Visual Studio inspired docking library for .NET WinForms.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/dockpanelsuite/dockpanelsuite)
+  [![NuGet - DockPanelSuite](https://img.shields.io/badge/NuGet-DockPanelSuite-blue?logo=nuget)](https://www.nuget.org/packages/DockPanelSuite/)
+  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
 
 * **[more.Frame & PanelEx](https://github.com/tstih/more#frame)**
   To understand the Frame control, you first need to understand its base control - the PanelEx.
@@ -28,7 +28,8 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/tstih/more)
 
 * **[more.Prompt](https://github.com/tstih/more#prompt)**
-  The Prompt control helps you consistently align your controls on the form. It adds a prompt and a glyph in front of them in a consistent way.
+  The Prompt control helps you consistently align your controls on the form. It adds a prompt and a glyph in front of them in a consistent way.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/tstih/more)
 
 ## Menu / Navigation
 
@@ -38,10 +39,16 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
   [![NuGet - RibbonWinForms](https://img.shields.io/badge/NuGet-RibbonWinForms-blue?logo=nuget)](https://www.nuget.org/packages/RibbonWinForms/)
   ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
 
+## Images
+
+* **[more.SpriteGrid](https://github.com/tstih/more#spritegrid)**
+  Raster image viewer (with mouse events and zoom), a basis for a sprite editor.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/tstih/more#spritegrid)
+
 ## Custom drawing / Diagrams
 
 * **[more.DocumentPreview](https://github.com/tstih/more#documentpreview)**
-  The DocumentPreview control paints the document background (the ornaments) and allows painting inside it, using native units. When the document needs to be painted, it triggers the paint event and your job is to paint into provided graphics context using native units.
+  The DocumentPreview control paints the document background (the ornaments) and allows painting inside it, using native units. When the document needs to be painted, it triggers the paint event and your job is to paint into provided graphics context using native units.  
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/tstih/more#documentpreview)
 
 * **[more.Hierarchy](https://github.com/tstih/more#hierarchy)**
@@ -49,7 +56,7 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/tstih/more#hierarchy)
 
 * **[more.Monitors](https://github.com/tstih/more#monitors)**
-  With the Monitors control you can show user his or her multi-monitor confiruation and enable him or her to to select one. This is useful for creating multi-monitor apps that open multiple windows. You can let user configure target monitors for these windows.
+  With the Monitors control you can show user his or her multi-monitor confiruation and enable him or her to to select one. This is useful for creating multi-monitor apps that open multiple windows. You can let user configure target monitors for these windows.  
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/tstih/more#monitors)
 
 ## Validation / DataBinding
@@ -81,6 +88,13 @@ Controls are often not intended to be used alone.
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/peters/winforms-modernui)
   [![NuGet - modernui](https://img.shields.io/badge/NuGet-modernui-blue?logo=nuget)](https://www.nuget.org/packages/modernui/)
   ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
+
+* **[MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin)**
+  Theming .NET WinForms, C# or VB.Net, to Google's Material Design Principles.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/IgnaceMaes/MaterialSkin)
+  [![NuGet - MaterialSkin](https://img.shields.io/badge/NuGet-MaterialSkin-blue?logo=nuget)](https://www.nuget.org/packages/MaterialSkin/)
+  ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
+  
 
 * **[AcrylicUI](https://github.com/colhountech/AcrylicUI)**
   AcrylicUI is a Free Control and Docking Framework for .NET5+ WinForms.
