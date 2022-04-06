@@ -24,6 +24,7 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
   A custom ColorPicker Dialog, similar to the one known from software like Photoshop, but also supporting alpha values.
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/AdamsLair/winforms)
   [![NuGet - AdamsLair.WinForms](https://img.shields.io/badge/NuGet-AdamsLair.WinForms-blue?logo=nuget)](https://www.nuget.org/packages/AdamsLair.WinForms/)
+  ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
 
 ## Containers / Layout / Docking
 
@@ -111,7 +112,11 @@ Controls are often not intended to be used alone.
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/IgnaceMaes/MaterialSkin)
   [![NuGet - MaterialSkin](https://img.shields.io/badge/NuGet-MaterialSkin-blue?logo=nuget)](https://www.nuget.org/packages/MaterialSkin/)
   ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
-  
+
+* **[DarkUI](https://github.com/RobinPerris/DarkUI)**
+  Dark themed control and docking library for .NET WinForms.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/RobinPerris/DarkUI)
+  ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
 
 * **[AcrylicUI](https://github.com/colhountech/AcrylicUI)**
   AcrylicUI is a Free Control and Docking Framework for .NET5+ WinForms.
