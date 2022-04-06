@@ -36,13 +36,13 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
   ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
 
 * **[DrawnTable](https://github.com/maxkoshevoi/DrawnTable)**
-  WinForms control based on PictureBox for creating versatile tables
+  WinForms control based on PictureBox for creating versatile tables.  
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/maxkoshevoi/DrawnTable)
   [![NuGet - DrawnTable](https://img.shields.io/badge/NuGet-DrawnTable-blue?logo=nuget)](https://www.nuget.org/packages/DrawnTable/)
   ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
 
 * **[ImageListView](http://oozcitak.github.io/imagelistview/)**
-  A .NET listview control for image files with asynchronously loaded thumbnails.
+  A .NET listview control for image files with asynchronously loaded thumbnails.  
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/oozcitak/imagelistview)
   [![NuGet - ImageListView](https://img.shields.io/badge/NuGet-ImageListView-blue?logo=nuget)](https://www.nuget.org/packages/ImageListView/)
   ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
@@ -184,14 +184,14 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
   [![NuGet - EBind.NET](https://img.shields.io/badge/NuGet-EBind.NET-blue?logo=nuget)](https://www.nuget.org/packages/EBind.NET/)
   ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
 
-* **[FlaUI](https://github.com/FlaUI/FlaUI)
+* **[FlaUI](https://github.com/FlaUI/FlaUI)**
   UI automation library for .Net.  
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/FlaUI/FlaUI)
   [![NuGet - FlaUI.Core](https://img.shields.io/badge/NuGet-FlaUI.Core-blue?logo=nuget)](https://www.nuget.org/packages/FlaUI.Core/)
   ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
 
-* **[FluentDragDrop](https://github.com/awaescher/FluentDragDrop)
-  The sexiest Drag&Drop for WinForms on this planet.
+* **[FluentDragDrop](https://github.com/awaescher/FluentDragDrop)**
+  The sexiest Drag&Drop for WinForms on this planet.  
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/awaescher/FluentDragDrop)
   [![NuGet - FluentDragDrop](https://img.shields.io/badge/NuGet-FluentDragDrop-blue?logo=nuget)](https://www.nuget.org/packages/FluentDragDrop/)
   ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
