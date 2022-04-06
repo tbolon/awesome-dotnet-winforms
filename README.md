@@ -18,7 +18,12 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
 
 * **[Customizable ComboBox Drop-Down](https://www.codeproject.com/Articles/25471/Customizable-ComboBox-Drop-Down)**
   A combobox control with a customizable drop-down.  
-  [![CodeProject](https://img.shields.io/badge/CodeProject-333?logo=codeproject&logoColor=FF9900)](https://www.codeproject.com/Articles/25471/Customizable-ComboBox-Drop-Down)  
+  [![CodeProject](https://img.shields.io/badge/CodeProject-333?logo=codeproject&logoColor=FF9900)](https://www.codeproject.com/Articles/25471/Customizable-ComboBox-Drop-Down)
+
+* **[AdamsLair.ColorPicker](https://github.com/AdamsLair/winforms)**
+  A custom ColorPicker Dialog, similar to the one known from software like Photoshop, but also supporting alpha values.
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/AdamsLair/winforms)
+  [![NuGet - AdamsLair.WinForms](https://img.shields.io/badge/NuGet-AdamsLair.WinForms-blue?logo=nuget)](https://www.nuget.org/packages/AdamsLair.WinForms/)
 
 ## Containers / Layout / Docking
 
