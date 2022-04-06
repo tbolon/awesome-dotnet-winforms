@@ -13,18 +13,32 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
 * **[Customizable ComboBox Drop-Down](https://www.codeproject.com/Articles/25471/Customizable-ComboBox-Drop-Down)**
   A combobox control with a customizable drop-down.  
   [![CodeProject](https://img.shields.io/badge/CodeProject-333?logo=codeproject&logoColor=FF9900)](https://www.codeproject.com/Articles/25471/Customizable-ComboBox-Drop-Down)
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/AdamsLair/winforms)
+  [![NuGet - AdamsLair.WinForms](https://img.shields.io/badge/NuGet-AdamsLair.WinForms-blue?logo=nuget)](https://www.nuget.org/packages/AdamsLair.WinForms/)
+  ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
+
+* **[GroupControls](https://github.com/dahall/groupcontrols)**
+  .NET controls that display multiple sub-controls without creating a unique window handle for each child. Instead each child is drawn using the default renderers.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/dahall/groupcontrols)
+  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
 
 * **[more.SecurityMatrix](https://github.com/tstih/more#securitymatrix)**
   A highly configurable classic permissions and roles grid editor. It accepts a feed interface which must provide a list of roles, permission categories, and permissions. A demo feed implementation is part of the control.  
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/tstih/more#securitymatrix)
   ![activity - fresh](https://img.shields.io/badge/activity-fresh-00ACC1)
 
-## Grid View / Lists
+## Grid View / Lists / Tables
 
 * **[Advanced DataGridView](https://github.com/davidegironi/advanceddatagridview)**
   Advanced DataGridView is a .NET WinForms DataGridView with advanced Filtering and Sorting capabilities.  
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/davidegironi/advanceddatagridview)
   [![NuGet - DG.AdvancedDataGridView](https://img.shields.io/badge/NuGet-DG.AdvancedDataGridView-blue?logo=nuget)](https://www.nuget.org/packages/DG.AdvancedDataGridView/)
+  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
+
+* **[DrawnTable](https://github.com/maxkoshevoi/DrawnTable)**
+  WinForms control based on PictureBox for creating versatile tables
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/maxkoshevoi/DrawnTable)
+  [![NuGet - DrawnTable](https://img.shields.io/badge/NuGet-DrawnTable-blue?logo=nuget)](https://www.nuget.org/packages/DrawnTable/)
   ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
 
 * **[ImageListView](http://oozcitak.github.io/imagelistview/)**
@@ -36,6 +50,11 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
 * **[Krypton OutlookGrid](https://www.jdhsoftware.com/products/krypton-outlookgrid/)**
   Krypton customized version of the .NET Winforms DataGridView (C#) that allows multi-grouping and multi-sorting. Featuring a TreeGrid mode, conditional formatting and additional custom columns.  
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/Cocotteseb/Krypton-OutlookGrid)
+  ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
+
+* **[ObjectListView](http://objectlistview.sourceforge.net/cs/index.html)**
+  ObjectListView is a C# wrapper around a .NET ListView. It makes the ListView much easier to use and teaches it some neat new tricks.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/geomatics-io/ObjectListView)
   ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
 
 ## Containers / Layout / Docking
@@ -99,8 +118,19 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/RibbonWinForms/RibbonWinForms)
   [![NuGet - RibbonWinForms](https://img.shields.io/badge/NuGet-RibbonWinForms-blue?logo=nuget)](https://www.nuget.org/packages/RibbonWinForms/)
   ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
-  
+
+* **[TabWizardControl](https://github.com/piksel/TabWizardControl)**
+  Simple wizard control for .NET WinForms that extends a TabControl for this purpose.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/piksel/TabWizardControl)
+  ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
+
 ## Images
+
+* **[LightResize](https://github.com/stakx/lightresize)**
+  Embeddable image resizing library for console, WPF, & WinForms usage. Not suitable for use in ASP.NET applications.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/stakx/lightresize)
+  [![NuGet - LightResize](https://img.shields.io/badge/NuGet-LightResize-blue?logo=nuget)](https://www.nuget.org/packages/LightResize/)
+  ![activity - stable](https://img.shields.io/badge/activity-stable-2ea44f)
 
 * **[more.SpriteGrid](https://github.com/tstih/more#spritegrid)**
   Raster image viewer (with mouse events and zoom), a basis for a sprite editor.  
@@ -152,6 +182,12 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
   .NET Data Binding we deserve: concise, fast, feature-rich.  
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/SIDOVSKY/EBind)
   [![NuGet - EBind.NET](https://img.shields.io/badge/NuGet-EBind.NET-blue?logo=nuget)](https://www.nuget.org/packages/EBind.NET/)
+  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
+
+* **[FlaUI](https://github.com/FlaUI/FlaUI)
+  UI automation library for .Net.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/FlaUI/FlaUI)
+  [![NuGet - FlaUI.Core](https://img.shields.io/badge/NuGet-FlaUI.Core-blue?logo=nuget)](https://www.nuget.org/packages/FlaUI.Core/)
   ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
 
 * **[FluentDragDrop](https://github.com/awaescher/FluentDragDrop)
