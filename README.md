@@ -15,8 +15,6 @@ Feel free to suggest your personal favorite library with an issue or, even bette
 * **[Customizable ComboBox Drop-Down](https://www.codeproject.com/Articles/25471/Customizable-ComboBox-Drop-Down)**
   A combobox control with a customizable drop-down.  
   [![CodeProject](https://img.shields.io/badge/CodeProject-333?logo=codeproject&logoColor=FF9900)](https://www.codeproject.com/Articles/25471/Customizable-ComboBox-Drop-Down)
-  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/AdamsLair/winforms)
-  [![NuGet - AdamsLair.WinForms](https://img.shields.io/badge/NuGet-AdamsLair.WinForms-blue?logo=nuget)](https://www.nuget.org/packages/AdamsLair.WinForms/)
   ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
 
 * **[GroupControls](https://github.com/dahall/groupcontrols)**
