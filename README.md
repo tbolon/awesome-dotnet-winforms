@@ -85,7 +85,13 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/tstih/more#monitors)
   ![activity - fresh](https://img.shields.io/badge/activity-fresh-00ACC1)
 
-## Validation / DataBinding
+* **[NodeEditorWinforms](https://github.com/komorra/NodeEditorWinforms)**
+  Node based user control / editor for Windows Forms.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/komorra/NodeEditorWinforms)
+  [![NuGet - NodeEditor](https://img.shields.io/badge/NuGet-NodeEditor-blue?logo=nuget)](https://www.nuget.org/packages/NodeEditor/)
+  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
+
+## Validation / DataBinding / MVx
 
 * **[Verify.WinForms](https://github.com/VerifyTests/Verify.WinForms)**
   Extends Verify to allow verification of WinForms UIs.  
@@ -102,6 +108,13 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
 * **[MatthewJesse](https://github.com/Richardmjxhx/MatthewJesse)**
   Lightweight and painlessly Turn-on/off MVC framework for C# Winform applications.  
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/Richardmjxhx/MatthewJesse)
+  ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
+  
+* **[WinformsMVP](https://github.com/DavidRogersDev/WinformsMVP)**
+  A Model View Presenter framework for the Winforms platform.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/DavidRogersDev/WinformsMVP)
+  [![CodeProject](https://img.shields.io/badge/CodeProject-333?logo=codeproject&logoColor=FF9900)](https://www.codeproject.com/Articles/522809/WinForms-MVP-An-MVP-Framework-for-WinForms)
+  [![NuGet - WinFormsMVP.Core](https://img.shields.io/badge/NuGet-WinFormsMVP.Core-blue?logo=nuget)](https://www.nuget.org/packages/WinFormsMVP.Core/)
   ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
 
 ## Suites
