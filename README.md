@@ -1,6 +1,6 @@
 # Awesome .NET WinForms Libraries
 
-A curated list of of .NET libraries for Windows Forms (winforms)
+A curated list of free and open-source .NET libraries for Windows Forms (winforms).
 
 ## Validation / DataBinding
 
