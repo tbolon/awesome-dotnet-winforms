@@ -120,11 +120,10 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
 
 ## Validation / DataBinding / MVx
 
-* **[Verify.WinForms](https://github.com/VerifyTests/Verify.WinForms)**
-  Extends Verify to allow verification of WinForms UIs.  
-  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/VerifyTests/Verify.WinForms)
-  [![NuGet - Verify.WinForms](https://img.shields.io/badge/NuGet-Verify.WinForms-blue?logo=nuget)](https://www.nuget.org/packages/Verify.WinForms/)
-  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
+* **[Bindery](https://github.com/Parametric/Bindery)**
+  Bindery aims to support fluent MVVM binding definition for WinForms applications.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/Parametric/Bindery)
+  ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
 
 * **[EBind](https://github.com/SIDOVSKY/EBind)**
   .NET Data Binding we deserve: concise, fast, feature-rich.  
@@ -136,6 +135,12 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
   Lightweight and painlessly Turn-on/off MVC framework for C# Winform applications.  
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/Richardmjxhx/MatthewJesse)
   ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
+
+* **[Verify.WinForms](https://github.com/VerifyTests/Verify.WinForms)**
+  Extends Verify to allow verification of WinForms UIs.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/VerifyTests/Verify.WinForms)
+  [![NuGet - Verify.WinForms](https://img.shields.io/badge/NuGet-Verify.WinForms-blue?logo=nuget)](https://www.nuget.org/packages/Verify.WinForms/)
+  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
   
 * **[WinformsMVP](https://github.com/DavidRogersDev/WinformsMVP)**
   A Model View Presenter framework for the Winforms platform.  
