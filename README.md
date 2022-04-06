@@ -52,6 +52,11 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
   [![NuGet - Krypton.Docking](https://img.shields.io/badge/NuGet-Krypton.Docking-blue?logo=nuget)](https://www.nuget.org/packages/Krypton.Docking/)
   ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
 
+* **[ExpandCollapsePanel](https://github.com/alexander-makarov/ExpandCollapsePane)**
+  ExpandCollapsePanel is WinForms control has similar to WPF Expander control. Control displays a header that has a collapsible window that displays content.  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub)](https://github.com/alexander-makarov/ExpandCollapsePanel)
+  ![activity - rough](https://img.shields.io/badge/activity-rough-981E32)
+
 ## Menu / Navigation / Dialogs / Tabs
 
 * **[RibbonWinForms](https://github.com/RibbonWinForms/RibbonWinForms)**
