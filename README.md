@@ -52,8 +52,14 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
   The Prompt control helps you consistently align your controls on the form. It adds a prompt and a glyph in front of them in a consistent way.  
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/tstih/more)
   ![activity - fresh](https://img.shields.io/badge/activity-fresh-00ACC1)
+  
+* **[Krypton.Docking](https://github.com/Krypton-Suite/Standard-Toolkit)**
+  The Krypton Docking set of components allow the user to drag and drop docking pages into new locations in order to customise the organisation of the application content. It allows this in a way similar to that of Visual Studio 2008/2010. Each docking area uses an instance of the Krypton Workspace allowing a wide range of options for organising and displaying pages. It integrates with the Krypton Toolkit architecture to ensure a consistent look and feel.  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub)](https://github.com/Krypton-Suite/Standard-Toolkit)
+  [![NuGet - Krypton.Docking](https://img.shields.io/badge/NuGet-Krypton.Docking-blue?logo=nuget)](https://www.nuget.org/packages/Krypton.Docking/)
+  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
 
-## Menu / Navigation
+## Menu / Navigation / Dialogs / Tabs
 
 * **[RibbonWinForms](https://github.com/RibbonWinForms/RibbonWinForms)**
   An Office Ribbon Control for .NET WinForms.  
@@ -61,6 +67,24 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
   [![NuGet - RibbonWinForms](https://img.shields.io/badge/NuGet-RibbonWinForms-blue?logo=nuget)](https://www.nuget.org/packages/RibbonWinForms/)
   ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
 
+* **[Ookii.Dialogs.WinForms](https://github.com/ookii-dialogs/ookii-dialogs-winforms)**
+  Awesome dialogs for Windows Desktop applications built with Microsoft .NET (WinForms).  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/ookii-dialogs/ookii-dialogs-winforms)
+  [![NuGet - Ookii.Dialogs.WinForms](https://img.shields.io/badge/NuGet-Ookii.Dialogs.WinForms-blue?logo=nuget)](https://www.nuget.org/packages/Ookii.Dialogs.WinForms/)
+  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
+  
+* **[Krypton.Navigator](https://github.com/Krypton-Suite/Standard-Toolkit)**
+  The Krypton Navigator is a user interface control that provides the user with a variety of ways to navigate around a set of pages. Think of it as a traditional TabControl on steroids. It has many different modes of operation allowing you to achieve exactly the right operation for your application. It integrates with the Krypton Toolkit architecture to ensure a consistent look and feel.  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub)](https://github.com/Krypton-Suite/Standard-Toolkit)
+  [![NuGet - Krypton.Navigator](https://img.shields.io/badge/NuGet-Krypton.Navigator-blue?logo=nuget)](https://www.nuget.org/packages/Krypton.Navigator/)
+  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
+  
+* **[Krypton.Ribbon](https://github.com/Krypton-Suite/Standard-Toolkit)**
+  The Krypton Ribbon is designed to mimic the look, feel and operation of the ribbon control seen in the Microsoft Office 2007/2010/2013/365 applications such as Word and Excel. It provides advanced capabilities including the quick access toolbar, contextual tabs and auto shrinking groups. With rich design time support and sample code you can be up and running with the ribbon in no time at all. It integrates with the Krypton Toolkit architecture to ensure a consistent look and feel.  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub)](https://github.com/Krypton-Suite/Standard-Toolkit)
+  [![NuGet - Krypton.Ribbon](https://img.shields.io/badge/NuGet-Krypton.Ribbon-blue?logo=nuget)](https://www.nuget.org/packages/Krypton.Ribbon/)
+  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
+  
 ## Images
 
 * **[more.SpriteGrid](https://github.com/tstih/more#spritegrid)**
@@ -116,6 +140,10 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
   [![CodeProject](https://img.shields.io/badge/CodeProject-333?logo=codeproject&logoColor=FF9900)](https://www.codeproject.com/Articles/522809/WinForms-MVP-An-MVP-Framework-for-WinForms)
   [![NuGet - WinFormsMVP.Core](https://img.shields.io/badge/NuGet-WinFormsMVP.Core-blue?logo=nuget)](https://www.nuget.org/packages/WinFormsMVP.Core/)
   ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
+
+* **[winforms-mvp](https://github.com/mrts/winforms-mvp)**
+  Windows Forms example of the Passive View variant of the Model-View-Presenter pattern.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/mrts/winforms-mvp)
 
 ## Suites
 
