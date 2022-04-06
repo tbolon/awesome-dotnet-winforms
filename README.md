@@ -123,7 +123,7 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
 * **[Bindery](https://github.com/Parametric/Bindery)**
   Bindery aims to support fluent MVVM binding definition for WinForms applications.  
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/Parametric/Bindery)
-  ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
+  ![activity - stable](https://img.shields.io/badge/activity-stable-2ea44f)
 
 * **[EBind](https://github.com/SIDOVSKY/EBind)**
   .NET Data Binding we deserve: concise, fast, feature-rich.  
