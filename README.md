@@ -2,6 +2,48 @@
 
 A curated list of free and open-source .NET libraries for Windows Forms (winforms).
 
+## Labels, Text ##
+
+* **[more.LabelEx](https://github.com/tstih/more#labelex)**
+  Label that can rotate and supports transparency.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/tstih/more#labelex)
+
+## Input
+
+* **[more.SecurityMatrix](https://github.com/tstih/more#securitymatrix)**
+  A highly configurable classic permissions and roles grid editor. It accepts a feed interface which must provide a list of roles, permission categories, and permissions. A demo feed implementation is part of the control.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/tstih/more#securitymatrix)
+
+## Images
+
+* **[more.SpriteGrid](https://github.com/tstih/more#spritegrid)**
+  Raster image viewer (with mouse events and zoom), a basis for a sprite editor.
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/tstih/more#spritegrid)
+
+## Containers
+
+* **[more.Frame & PanelEx](https://github.com/tstih/more#frame)**
+  To understand the Frame control, you first need to understand its base control - the PanelEx.
+  This control enables you to create non-client border around the PanelEx, and have WinForms respect it, for example, when docking children inside the PanelEx.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/tstih/more)
+
+* **[more.Prompt](https://github.com/tstih/more#prompt)**
+  The Prompt control helps you consistently align your controls on the form. It adds a prompt and a glyph in front of them in a consistent way.
+
+## Custom drawing / Diagrams
+
+* **[more.DocumentPreview](https://github.com/tstih/more#documentpreview)**
+  The DocumentPreview control paints the document background (the ornaments) and allows painting inside it, using native units. When the document needs to be painted, it triggers the paint event and your job is to paint into provided graphics context using native units.
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/tstih/more#documentpreview)
+
+* **[more.Hierarchy](https://github.com/tstih/more#hierarchy)**
+  You can use the Hierarchy control to visualise trees. The control only does the layouting; it expects your code to draw content inside events.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/tstih/more#hierarchy)
+
+* **[more.Monitors](https://github.com/tstih/more#monitors)**
+  With the Monitors control you can show user his or her multi-monitor confiruation and enable him or her to to select one. This is useful for creating multi-monitor apps that open multiple windows. You can let user configure target monitors for these windows.
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/tstih/more#monitors)
+
 ## Validation / DataBinding
 
 * **[Verify.WinForms](https://github.com/VerifyTests/Verify.WinForms)**
