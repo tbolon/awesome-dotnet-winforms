@@ -219,6 +219,7 @@ Feel free to suggest your personal favorite library with an issue or, even bette
 * **[winforms-mvp](https://github.com/mrts/winforms-mvp)**
   Windows Forms example of the Passive View variant of the Model-View-Presenter pattern.  
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/mrts/winforms-mvp)
+  ![activity - stable](https://img.shields.io/badge/activity-stable-2ea44f)
 
 ## Suites
 
@@ -256,6 +257,7 @@ Controls are often not intended to be used alone.
 * **[MaterialWinforms](https://github.com/glm9637/MaterialWinforms)**
   Windows Forms Controls with Material Design. I created this library out of two existing ones: https://github.com/IgnaceMaes/MaterialSkin https://sinister.ly/Thread-Tutorial-C-Material-Design-Lollipop-WinForms-UI Because i really liked them, but felt like some controls were Missing, so i added a few Custom ones and will add other ones as soon as i need them.  
   [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub)](https://github.com/glm9637/MaterialWinforms)
+  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
 
 * **[modernui](https://github.com/peters/winforms-modernui)**
   Brings the new Modern UI alias Metro UI of Windows 8 to .NET Windows Forms applications.  
