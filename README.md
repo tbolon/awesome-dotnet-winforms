@@ -26,6 +26,14 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
   [![NuGet - AdamsLair.WinForms](https://img.shields.io/badge/NuGet-AdamsLair.WinForms-blue?logo=nuget)](https://www.nuget.org/packages/AdamsLair.WinForms/)
   ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
 
+## Grid View / Lists
+
+* **[Advanced DataGridView](https://github.com/davidegironi/advanceddatagridview)**
+  Advanced DataGridView is a .NET WinForms DataGridView with advanced Filtering and Sorting capabilities.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](davidegironi/advanceddatagridview)
+  [![NuGet - DG.AdvancedDataGridView](https://img.shields.io/badge/NuGet-DG.AdvancedDataGridView-blue?logo=nuget)](https://www.nuget.org/packages/DG.AdvancedDataGridView/)
+  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
+
 ## Containers / Layout / Docking
 
 * **[DockPanelSuite](https://github.com/dockpanelsuite/dockpanelsuite)**
@@ -124,7 +132,12 @@ Controls are often not intended to be used alone.
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/colhountech/AcrylicUI)
   ![activity - fresh](https://img.shields.io/badge/activity-fresh-00ACC1)
   
-
+* **[ReaLTaiizor](https://github.com/Taiizor/ReaLTaiizor)**
+  ReaLTaiizor is a UI/UX component library. It allows you to make modern designs using the various components it offers.  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub)](https://github.com/Taiizor/ReaLTaiizor)
+  [![NuGet - ReaLTaiizor](https://img.shields.io/badge/NuGet-ReaLTaiizor-blue?logo=nuget)](https://www.nuget.org/packages/ReaLTaiizor/)
+  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
+  
 * **[Krypton Standard Tookit](https://github.com/Krypton-Suite/Standard-Toolkit)**
   An update to Component factory's krypton toolkit to support .NET Framework 4.6.2 - 4.8 to .NET Core/.NET  
   [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub)](https://github.com/Krypton-Suite/Standard-Toolkit)
