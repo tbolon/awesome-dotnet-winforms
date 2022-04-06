@@ -16,6 +16,10 @@ A curated list of free and open-source .NET libraries for Windows Forms (winform
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/tstih/more#securitymatrix)
   ![activity - fresh](https://img.shields.io/badge/activity-fresh-00ACC1)
 
+* **[Customizable ComboBox Drop-Down](https://www.codeproject.com/Articles/25471/Customizable-ComboBox-Drop-Down)**
+  A combobox control with a customizable drop-down.  
+  [![CodeProject](https://img.shields.io/badge/CodeProject-333?logo=codeproject&logoColor=FF9900)](https://www.codeproject.com/Articles/25471/Customizable-ComboBox-Drop-Down)  
+
 ## Containers / Layout / Docking
 
 * **[DockPanelSuite](https://github.com/dockpanelsuite/dockpanelsuite)**
