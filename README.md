@@ -172,7 +172,7 @@ Feel free to suggest your personal favorite library with an issue or, even bette
   ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
 
 * **[ScottPlot](https://github.com/ScottPlot/ScottPlot)**
-  Interactive Plotting Library for .NET
+  Interactive Plotting Library for .NET.  
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/ScottPlot/ScottPlot)
   [![NuGet - ScottPlot](https://img.shields.io/badge/NuGet-ScottPlot-blue?logo=nuget)](https://www.nuget.org/packages/ScottPlot/)
   ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
