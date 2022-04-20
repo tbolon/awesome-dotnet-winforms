@@ -145,6 +145,12 @@ Feel free to suggest your personal favorite library with an issue or, even bette
   [![NuGet - LiveChartsCore.SkiaSharpView.WinForms](https://img.shields.io/badge/NuGet-LiveChartsCore.SkiaSharpView.WinForms-blue?logo=nuget)](https://www.nuget.org/packages/LiveChartsCore.SkiaSharpView.WinForms)
   ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
 
+* **[Microcharts.Forms](https://github.com/microcharts-dotnet/Microcharts)**
+  Microcharts is an extremely simple charting library for a wide range of platforms (see Compatibility section below), with shared code and rendering for all of them!  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/microcharts-dotnet/Microcharts)
+  [![NuGet - Microcharts.Forms](https://img.shields.io/badge/NuGet-Microcharts.Forms-blue?logo=nuget)](https://www.nuget.org/packages/Microcharts.Forms)
+  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
+
 * **[more.DocumentPreview](https://github.com/tstih/more#documentpreview)**
   The DocumentPreview control paints the document background (the ornaments) and allows painting inside it, using native units. When the document needs to be painted, it triggers the paint event and your job is to paint into provided graphics context using native units.  
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/tstih/more#documentpreview)
