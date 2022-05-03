@@ -184,7 +184,7 @@ Feel free to suggest your personal favorite library with an issue or, even bette
   ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
 
 * **[System.Windows.Forms.DataVisualization](https://github.com/dotnet/winforms-datavisualization)**
-  System.Windows.Forms.DataVisualization provides basic charting for WinForms applications.
+  System.Windows.Forms.DataVisualization provides basic charting for WinForms applications.  
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/dotnet/winforms-datavisualization)
   ![activity - deprecated](https://img.shields.io/badge/activity-deprecated-981E32)
 
