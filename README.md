@@ -1,4 +1,4 @@
-# Awesome .NET WinForms Libraries
+# (Awesome) .NET WinForms Libraries
 
 A curated list of free and open-source .NET libraries for Windows Forms (winforms).
 
