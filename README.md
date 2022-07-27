@@ -1,8 +1,8 @@
 # (Awesome) .NET WinForms Libraries
 
-A curated list of free and open-source .NET libraries for Windows Forms (winforms).
+A curated list of free and .NET libraries for Windows Forms (winforms) with source code available.
 
-Feel free to suggest your personal favorite library with an issue or, even better, a PR. Or open an issue if there is something wrong.
+Feel free to suggest your personal favorite library in the discussion tab, with an issue or, even better, a PR. Or open an issue if there is something wrong.
 
 ## Input Controls / Forms
 
