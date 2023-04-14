@@ -2,6 +2,8 @@
 
 A curated list of free and .NET libraries for Windows Forms (winforms) with source code available.
 
+Please note that you should check each project license requirement, as some projects are not released under MIT license.
+
 Feel free to suggest your personal favorite library in the discussion tab, with an issue or, even better, a PR. Or open an issue if there is something wrong.
 
 ## Input Controls / Forms
