@@ -59,7 +59,7 @@ Feel free to suggest your personal favorite library in the discussion tab, with 
   ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
   ![GitHub Repository Last Commit](https://img.shields.io/github/last-commit/oozcitak/imagelistview)
 
-* **[Krypton OutlookGrid](https://www.jdhsoftware.com/products/krypton-outlookgrid/)**
+* **[Krypton OutlookGrid](https://www.jdhsoftware.fr/products/krypton-outlookgrid/)**
   Krypton customized version of the .NET Winforms DataGridView (C#) that allows multi-grouping and multi-sorting. Featuring a TreeGrid mode, conditional formatting and additional custom columns.  
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/Cocotteseb/Krypton-OutlookGrid)
   ![GitHub Repository Stars](https://img.shields.io/github/stars/Cocotteseb/Krypton-OutlookGrid?style=social)
