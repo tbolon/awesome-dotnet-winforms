@@ -243,12 +243,14 @@ Feel free to suggest your personal favorite library in the discussion tab, with 
   ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
   ![GitHub Repository Last Commit](https://img.shields.io/github/last-commit/ScottPlot/ScottPlot)
 
-* **[System.Windows.Forms.DataVisualization](https://github.com/dotnet/winforms-datavisualization)**
-  System.Windows.Forms.DataVisualization provides basic charting for WinForms applications.  
-  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/dotnet/winforms-datavisualization)
-  ![GitHub Repository Stars](https://img.shields.io/github/stars/dotnet/winforms-datavisualization?style=social)
-  ![activity - deprecated](https://img.shields.io/badge/activity-deprecated-981E32)
-  ![GitHub Repository Last Commit](https://img.shields.io/github/last-commit/dotnet/winforms-datavisualization)
+* **[System.Windows.Forms.DataVisualization](https://github.com/kirsan31/winforms-datavisualization)**
+  System.Windows.Forms.DataVisualization provides basic charting for WinForms applications. 
+  Updated fork from https://github.com/dotnet/winforms-datavisualization with designer support.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/kirsan31/winforms-datavisualization)
+  ![GitHub Repository Stars](https://img.shields.io/github/stars/kirsan31/winforms-datavisualization?style=social)
+  [![NuGet - ScottPlot.WinForms](https://img.shields.io/badge/NuGet-WinForms.DataVisualization-blue?logo=nuget)](https://www.nuget.org/packages/WinForms.DataVisualization/)
+  ![activity - active]https://img.shields.io/badge/activity-active-2ea44f)
+  ![GitHub Repository Last Commit](https://img.shields.io/github/last-commit/kirsan31/winforms-datavisualization)
 
 ## Validation / DataBinding / MVx / Interactions
 
