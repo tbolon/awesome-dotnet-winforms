@@ -316,6 +316,14 @@ Feel free to suggest your personal favorite library in the discussion tab, with 
   ![activity - stable](https://img.shields.io/badge/activity-stable-2ea44f)
   ![GitHub Repository Last Commit](https://img.shields.io/github/last-commit/mrts/winforms-mvp)
 
+* **[WindowsFormsLifetime](https://github.com/alex-oswald/WindowsFormsLifetime)**
+  A Windows Forms hosting extension for .NET Core's generic host. Enables you to configure the generic host to use the lifetime of Windows Forms. When configured, the generic host will start an IHostedService that runs Windows Forms in a separate thread.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/alex-oswald/WindowsFormsLifetime)
+  ![GitHub Repository Stars](https://img.shields.io/github/stars/alex-oswald/WindowsFormsLifetime?style=social)
+  [![NuGet - OswaldTechnologies.Extensions.Hosting.WindowsFormsLifetime](https://img.shields.io/badge/NuGet-OswaldTechnologies.Extensions.Hosting.WindowsFormsLifetime-blue?logo=nuget)](https://www.nuget.org/packages/OswaldTechnologies.Extensions.Hosting.WindowsFormsLifetime/)
+  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
+  ![GitHub Repository Last Commit](https://img.shields.io/github/last-commit/alex-oswald/WindowsFormsLifetime)
+  
 ## Suites
 
 Libraries of controls with a strong identity and look-and-feel.
