@@ -165,7 +165,7 @@ Feel free to suggest your personal favorite library in the discussion tab, with 
   ![GitHub Repository Last Commit](https://img.shields.io/github/last-commit/piksel/TabWizardControl)
 
 * **[WindowsRibbon](https://github.com/harborsiem/WindowsRibbon)**
-  Microsoft Ribbon Framework for .NET (Wrapper for C# and VB) 
+  Microsoft Ribbon Framework for .NET (Wrapper for C# and VB)  
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/harborsiem/WindowsRibbon)
   ![GitHub Repository Stars](https://img.shields.io/github/stars/harborsiem/WindowsRibbon?style=social)
   ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
