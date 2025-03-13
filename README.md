@@ -85,7 +85,7 @@ Feel free to suggest your personal favorite library in the discussion tab, with 
   ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
   ![GitHub Repository Last Commit](https://img.shields.io/github/last-commit/dockpanelsuite/dockpanelsuite)
 
-* **[ExpandCollapsePanel](https://github.com/alexander-makarov/ExpandCollapsePane)**
+* **[ExpandCollapsePanel](https://github.com/alexander-makarov/ExpandCollapsePanel)**
   ExpandCollapsePanel is WinForms control has similar to WPF Expander control. Control displays a header that has a collapsible window that displays content.  
   [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub)](https://github.com/alexander-makarov/ExpandCollapsePanel)
   ![GitHub Repository Stars](https://img.shields.io/github/stars/alexander-makarov/ExpandCollapsePanel?style=social)
