@@ -407,6 +407,14 @@ Controls are often not intended to be used alone.
   ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
   ![GitHub Repository Last Commit](https://img.shields.io/github/last-commit/Taiizor/ReaLTaiizor)
 
+* **[AntdUI](https://github.com/AntdUI/AntdUI)**
+Ant Design for WinForms, reimagines desktop app aesthetics with modern frontend design elements. Using pure GDI graphics, no image resources required, fully supports AOT.  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub)](https://github.com/AntdUI/AntdUI)
+  ![GitHub Repository Stars](https://img.shields.io/github/stars/AntdUI/AntdUI?style=social)
+  [![NuGet - AntdUI](https://img.shields.io/badge/NuGet-AntdUI-blue?logo=nuget)](https://www.nuget.org/packages/AntdUI)
+  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
+  ![GitHub Repository Last Commit](https://img.shields.io/github/last-commit/AntdUI/AntdUI)
+
 <!--
 
 Badges, created using https://michaelcurrin.github.io/badge-generator/#/generic and https://simpleicons.org/
