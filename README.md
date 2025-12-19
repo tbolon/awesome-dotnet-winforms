@@ -4,7 +4,7 @@ A curated list of free and .NET libraries for Windows Forms (winforms) with sour
 
 Please note that you should check each project license requirement, as some projects are not released under MIT license.
 
-Feel free to suggest your personal favorite library in the discussion tab, with an issue or, even better, a PR. Or open an issue if there is something wrong.
+Feel free to suggest your personal favorite library in the discussion tab, with an issue or, even better, a PR (projects are sorted alphabetically). Or open an issue if there is something wrong.
 
 ## Input Controls / Forms
 
@@ -361,6 +361,15 @@ Controls are often not intended to be used alone.
   ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
   ![GitHub Repository Last Commit](https://img.shields.io/github/last-commit/stefan-baumann/AeroSuite)
 
+* **[AntdUI](https://github.com/AntdUI/AntdUI)**
+Ant Design for WinForms, reimagines desktop app aesthetics with modern frontend design elements. Using pure GDI graphics, no image resources required, fully supports AOT.  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub)](https://github.com/AntdUI/AntdUI)
+  ![GitHub Repository Stars](https://img.shields.io/github/stars/AntdUI/AntdUI?style=social)
+  [![NuGet - AntdUI](https://img.shields.io/badge/NuGet-AntdUI-blue?logo=nuget)](https://www.nuget.org/packages/AntdUI)
+  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
+  ![GitHub Repository Last Commit](https://img.shields.io/github/last-commit/AntdUI/AntdUI)
+
+
 * **[DarkUI](https://github.com/RobinPerris/DarkUI)**
   Dark themed control and docking library for .NET WinForms.  
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/RobinPerris/DarkUI)
@@ -406,15 +415,7 @@ Controls are often not intended to be used alone.
   [![NuGet - ReaLTaiizor](https://img.shields.io/badge/NuGet-ReaLTaiizor-blue?logo=nuget)](https://www.nuget.org/packages/ReaLTaiizor/)
   ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
   ![GitHub Repository Last Commit](https://img.shields.io/github/last-commit/Taiizor/ReaLTaiizor)
-
-* **[AntdUI](https://github.com/AntdUI/AntdUI)**
-Ant Design for WinForms, reimagines desktop app aesthetics with modern frontend design elements. Using pure GDI graphics, no image resources required, fully supports AOT.  
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub)](https://github.com/AntdUI/AntdUI)
-  ![GitHub Repository Stars](https://img.shields.io/github/stars/AntdUI/AntdUI?style=social)
-  [![NuGet - AntdUI](https://img.shields.io/badge/NuGet-AntdUI-blue?logo=nuget)](https://www.nuget.org/packages/AntdUI)
-  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
-  ![GitHub Repository Last Commit](https://img.shields.io/github/last-commit/AntdUI/AntdUI)
-
+  
 <!--
 
 Badges, created using https://michaelcurrin.github.io/badge-generator/#/generic and https://simpleicons.org/
