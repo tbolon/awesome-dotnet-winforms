@@ -385,6 +385,14 @@ Ant Design for WinForms, reimagines desktop app aesthetics with modern frontend 
   ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
   ![GitHub Repository Last Commit](https://img.shields.io/github/last-commit/Krypton-Suite/Standard-Toolkit)
 
+* **[Material3.WinForms](https://github.com/dary1337/material3-winforms)**
+  Material 3 (Material You) controls and design tokens: dynamic color from a seed (a C# HCT/CAM16 port, no native deps), runtime light/dark theming, the full type scale, elevation, state layers and motion.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/dary1337/material3-winforms)
+  ![GitHub Repository Stars](https://img.shields.io/github/stars/dary1337/material3-winforms?style=social)
+  [![NuGet - Material3.WinForms](https://img.shields.io/badge/NuGet-Material3.WinForms-blue?logo=nuget)](https://www.nuget.org/packages/Material3.WinForms/)
+  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
+  ![GitHub Repository Last Commit](https://img.shields.io/github/last-commit/dary1337/material3-winforms)
+
 * **[MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin)**
   Theming .NET WinForms, C# or VB.Net, to Google's Material Design Principles.  
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/IgnaceMaes/MaterialSkin)
