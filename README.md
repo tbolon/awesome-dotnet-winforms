@@ -200,6 +200,15 @@ Feel free to suggest your personal favorite library in the discussion tab, with 
 
 ## Text rendering / Custom drawing / Diagrams / Charts
 
+* **[KGySoft.Drawing](https://github.com/koszeggy/KGySoft.Drawing)**
+  High-performance, versatile drawing library for GDI+, supporting direct and fast bitmap manipulation of any pixel format, shape drawing, image processing, and even creating animated GIFs. Not just for WinForms: it has dedicated packages also for [WPF](https://www.nuget.org/packages/KGySoft.Drawing.Wpf), [UWP](https://www.nuget.org/packages/KGySoft.Drawing.Uwp), [WinUI](https://www.nuget.org/packages/KGySoft.Drawing.WinUI) and [SkiaSharp](https://www.nuget.org/packages/KGySoft.Drawing.SkiaSharp/).  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/koszeggy/KGySoft.Drawing)
+  ![GitHub Repository Stars](https://img.shields.io/github/stars/koszeggy/KGySoft.Drawing?style=social)
+  [![NuGet - KGySoft.Drawing](https://img.shields.io/badge/NuGet-KGySoft.Drawing-blue?logo=nuget)](https://www.nuget.org/packages/KGySoft.Drawing/)
+  [![Online Help](https://img.shields.io/website/https/koszeggy.github.io/docs/corelibraries.svg?label=online%20help&up_message=available)](https://koszeggy.github.io/docs/drawing)
+  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
+  ![GitHub Repository Last Commit](https://img.shields.io/github/last-commit/koszeggy/KGySoft.Drawing)
+
 * **[LiveCharts.WinForms](https://github.com/beto-rodriguez/LiveCharts2)**
   Simple, flexible, interactive & powerful charts, maps and gauges for .Net, LiveCharts2 can now practically run everywhere WPF, WinForms, Xamarin, Avalonia, WinUI, UWP, Blazor-wasm, MAUI.  
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/beto-rodriguez/LiveCharts2)
@@ -302,6 +311,15 @@ Feel free to suggest your personal favorite library in the discussion tab, with 
   ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
   ![GitHub Repository Last Commit](https://img.shields.io/github/last-commit/awaescher/FluentDragDrop)
   
+* **[KGySoft.CoreLibraries](https://github.com/koszeggy/KGySoft.CoreLibraries)**
+  Actually a platform-independent library with various features, but its [command binding](https://github.com/koszeggy/KGySoft.CoreLibraries?tab=readme-ov-file#command-binding) and [business object](https://github.com/koszeggy/KGySoft.CoreLibraries?tab=readme-ov-file#business-objects) components can be [used](https://github.com/koszeggy/KGySoft.ComponentModelDemo) to implement the MVVM pattern in WinForms applications, including older frameworks where such thing is not supported officially. The package has no dependencies.  
+  [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/koszeggy/KGySoft.CoreLibraries)
+  ![GitHub Repository Stars](https://img.shields.io/github/stars/koszeggy/KGySoft.CoreLibraries?style=social)
+  [![NuGet - KGySoft.CoreLibraries](https://img.shields.io/badge/NuGet-KGySoft.CoreLibraries-blue?logo=nuget)](https://www.nuget.org/packages/KGySoft.CoreLibraries/)
+  [![Online Help](https://img.shields.io/website/https/koszeggy.github.io/docs/corelibraries.svg?label=online%20help&up_message=available)](https://koszeggy.github.io/docs/corelibraries)
+  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
+  ![GitHub Repository Last Commit](https://img.shields.io/github/last-commit/koszeggy/KGySoft.CoreLibraries)
+
 * **[MatthewJesse](https://github.com/Richardmjxhx/MatthewJesse)**
   Lightweight and painlessly Turn-on/off MVC framework for C# Winform applications.  
   [![GitHub](https://img.shields.io/static/v1?label=&message=Github&color=181717&logo=GitHub)](https://github.com/Richardmjxhx/MatthewJesse)
@@ -377,6 +395,15 @@ Ant Design for WinForms, reimagines desktop app aesthetics with modern frontend 
   ![activity - stale](https://img.shields.io/badge/activity-stale-lightgray)
   ![GitHub Repository Last Commit](https://img.shields.io/github/last-commit/RobinPerris/DarkUI)
   
+* **[KGySoft.WinForms](https://github.com/koszeggy/KGySoft.WinForms)**
+  Various WinForms controls and components. Not exactly a suite, so you can cherry-pick whatever you like. It generally contains improved versions of standard controls along with some new ones (e.g. an `ImageViewer` with panning and zooming capability). The library aims the widest possible compatibility, including Windows XP and Mono/Linux, even for components (e.g. Task Dialogs) that normally require newer platforms or rely on native APIs.  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub)](https://github.com/koszeggy/KGySoft.WinForms)
+  ![GitHub Repository Stars](https://img.shields.io/github/stars/koszeggy/KGySoft.WinForms?style=social)
+  [![NuGet - KGySoft.WinForms](https://img.shields.io/badge/NuGet-KGySoft.WinForms-blue?logo=nuget)](https://www.nuget.org/packages/KGySoft.WinForms/)
+  [![Online Help](https://img.shields.io/website/https/koszeggy.github.io/docs/corelibraries.svg?label=online%20help&up_message=available)](https://koszeggy.github.io/docs/winforms)
+  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
+  ![GitHub Repository Last Commit](https://img.shields.io/github/last-commit/koszeggy/KGySoft.WinForms)
+
 * **[Krypton Standard Tookit](https://github.com/Krypton-Suite/Standard-Toolkit)**
   The Krypton Toolkit provides a set of basic user interface components for free. You can distribute the signed Krypton Toolkit assembly without charge or royalty with your own products. The Krypton Toolkit is great resource for speeding up development of professional looking applications. It works in tandem with the MenuStrip, StatusStrip and ToolStrip controls that come with .NET Framework controls. Using the Krypton Toolkit you can create a great looking application in just minutes.  
   [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub)](https://github.com/Krypton-Suite/Standard-Toolkit)
@@ -416,6 +443,17 @@ Ant Design for WinForms, reimagines desktop app aesthetics with modern frontend 
   ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
   ![GitHub Repository Last Commit](https://img.shields.io/github/last-commit/Taiizor/ReaLTaiizor)
   
+## Debugging
+
+Libraries/tools to help debugging WinForms applications.
+
+* **[KGy SOFT Debugger Visualizers](https://github.com/koszeggy/KGySoft.Drawing.Tools)** A Visual Studio extension, containing debugger visualizers for GDI+, WPF and SkiaSharp types. It can be really useful when developing WinForms applications with custom rendering. The installer can be downloaded also from the Visual Studio Marketplace for free: see the [32-bit](https://marketplace.visualstudio.com/items?itemName=KGySoft.drawing-debugger-visualizers) (VS 2013-2019) and the [64-bit](https://marketplace.visualstudio.com/items?itemName=KGySoft.drawing-debugger-visualizers-x64) (VS 2022-2026+) packages. For older Visual Studio versions see the [manual install](https://github.com/koszeggy/KGySoft.Drawing.Tools#installing-debugger-visualizers) instructions.<br/>
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub)](https://github.com/koszeggy/KGySoft.Drawing.Tools)
+  ![GitHub Repository Stars](https://img.shields.io/github/stars/koszeggy/KGySoft.Drawing.Tools?style=social)
+  <!--![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/d/:KGySoft.drawing-debugger-visualizers-x64)-->
+  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
+  ![GitHub Repository Last Commit](https://img.shields.io/github/last-commit/koszeggy/KGySoft.Drawing.Tools)
+
 <!--
 
 Badges, created using https://michaelcurrin.github.io/badge-generator/#/generic and https://simpleicons.org/
