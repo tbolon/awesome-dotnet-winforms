@@ -450,7 +450,14 @@ Ant Design for WinForms, reimagines desktop app aesthetics with modern frontend 
   [![NuGet - ReaLTaiizor](https://img.shields.io/badge/NuGet-ReaLTaiizor-blue?logo=nuget)](https://www.nuget.org/packages/ReaLTaiizor/)
   ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
   ![GitHub Repository Last Commit](https://img.shields.io/github/last-commit/Taiizor/ReaLTaiizor)
-  
+
+
+* **[ZenForms](https://github.com/drJhonatan00/ZenForms)** - A comprehensive, dark-themed WinForms component library featuring everyday UI widgets, advanced developer tools (API client, JSON/HEX explorers, diff viewer), and rich animated controls.
+<br>  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub)](https://github.com/drJhonatan00/ZenForms)
+  ![GitHub Repository Stars](https://img.shields.io/github/stars/drJhonatan00/ZenForms?style=social)
+    ![activity - stale](https://img.shields.io/badge/activity-active-2ea44f)
+  ![GitHub Repository Last Commit](https://img.shields.io/github/last-commit/drJhonatan00/ZenForms)
+
 ## Debugging
 
 Libraries/tools to help debugging WinForms applications.
